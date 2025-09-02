@@ -3,6 +3,16 @@
 	"EngineAssociation": "{A76B5A3E-4B1C-8BA7-3669-08B705B27F6F}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "Ice_1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "ModelingToolsEditorMode",
