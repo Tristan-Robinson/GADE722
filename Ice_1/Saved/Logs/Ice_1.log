@@ -1697,3 +1697,33 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.09.02-17.45.21:644][418]
 [2025.09.02-17.45.21:644][418]Result: Succeeded
 [2025.09.02-17.45.21:644][418]Total execution time: 34.15 seconds
+[2025.09.02-17.45.44:793][418]LogSlate: Window 'Message' being destroyed
+[2025.09.02-17.45.44:806][418]Message dialog closed, result: Ok, title: Message, text: Project now includes sources, please close the editor and build from your IDE.
+[2025.09.02-17.45.45:696][418]LogSlate: Window 'Message' being destroyed
+[2025.09.02-17.45.45:708][418]Message dialog closed, result: Yes, title: Message, text: Successfully added class 'MovingObstacle', however you must recompile the 'Ice_1' module before it will appear in the Content Browser.
+
+Would you like to edit the code now?
+[2025.09.02-17.45.45:816][418]LogSlate: Window 'Add C++ Component' being destroyed
+[2025.09.02-17.45.45:831][418]LogUObjectGlobals: Warning: Failed to find object 'Class /Script/Ice_1.MovingObstacle'
+[2025.09.02-17.45.45:885][418]LogAutomationController: Ignoring very large delta of 78.27 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.45.47:851][423]LogVSAccessor: Visual Studio is open but could not be queried - it may still be initializing or blocked by a modal operation
+[2025.09.02-17.45.47:855][423]LogVSAccessor: Visual Studio is open but could not be queried - it may still be initializing or blocked by a modal operation
+[2025.09.02-17.45.47:868][424]LogVSAccessor: Visual Studio is open but could not be queried - it may still be initializing or blocked by a modal operation
+[2025.09.02-17.45.47:873][424]LogVSAccessor: Visual Studio is open but could not be queried - it may still be initializing or blocked by a modal operation
+[2025.09.02-17.46.04:642][425]LogAutomationController: Ignoring very large delta of 16.76 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.47.31:995][688]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1719.927490
+[2025.09.02-17.47.32:996][691]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.47.32:996][692]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1720.598267, Update Interval: 357.993103
+[2025.09.02-17.52.19:848][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2025.09.02-17.52.19:850][551]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.091
+[2025.09.02-17.52.19:851][551]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Characters/MovingObstacle] ([2] browsable assets)...
+[2025.09.02-17.52.19:851][551]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/MovingObstacle]
+[2025.09.02-17.52.19:966][551]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/MovingObstacle_Auto3
+[2025.09.02-17.52.19:966][551]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GADE722/Ice_1/Saved/MovingObstacle_Auto377650AA44BF5C8195BA6A6BF310E9F26.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GADE722/Ice_1/Saved/Autosaves/Game/Characters/MovingObstacle_Auto3.uasset'
+[2025.09.02-17.52.19:967][551]LogFileHelpers: Auto-saving content packages took 0.116
+[2025.09.02-17.54.08:049][876]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2115.983154
+[2025.09.02-17.54.09:056][879]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.54.09:056][879]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2116.649902, Update Interval: 316.646637
+[2025.09.02-18.00.25:296][ 79]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2493.233398
+[2025.09.02-18.00.26:297][ 82]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-18.00.26:297][ 82]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2493.899902, Update Interval: 305.493347
