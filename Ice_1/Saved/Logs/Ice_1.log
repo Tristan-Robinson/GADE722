@@ -1679,3 +1679,21 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.09.02-17.45.02:098][418]Compiling Rules Assemblies
 [2025.09.02-17.45.02:099][418]Compiling Rules Assemblies 100%
 [2025.09.02-17.45.02:099][418]Creating Build Targets
+[2025.09.02-17.45.07:233][418]Creating Build Targets 100%
+[2025.09.02-17.45.07:234][418]Creating Build Targets took 5.12s
+[2025.09.02-17.45.07:234][418]Binding IntelliSense data...
+[2025.09.02-17.45.12:781][418]Binding IntelliSense data... 100%
+[2025.09.02-17.45.12:781][418]Binding IntelliSense data took 5.48s
+[2025.09.02-17.45.12:781][418]Writing project files...
+[2025.09.02-17.45.21:644][418]Writing project files... 100%
+[2025.09.02-17.45.21:644][418]Writing project files took 8.88s
+[2025.09.02-17.45.21:644][418]
+[2025.09.02-17.45.21:644][418]Generating QueryTargets data for editor...
+[2025.09.02-17.45.21:644][418]Compiling Rules Assemblies
+[2025.09.02-17.45.21:644][418]Compiling Rules Assemblies 100%
+[2025.09.02-17.45.21:644][418]Writing Query Target Info
+[2025.09.02-17.45.21:644][418]Writing Query Target Info 100%
+[2025.09.02-17.45.21:644][418]Generating QueryTargets data for editor took 0.04s
+[2025.09.02-17.45.21:644][418]
+[2025.09.02-17.45.21:644][418]Result: Succeeded
+[2025.09.02-17.45.21:644][418]Total execution time: 34.15 seconds
