@@ -1165,3 +1165,116 @@ LogConfig: CVar [[D3D12.Bindless.ResourceDescriptorHeapSize:32768]] deferred - d
 [2025.09.02-17.20.19:863][578]LogDerivedDataCache: C:/Users/robin/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
 [2025.09.02-17.22.07:805][930]LogSlate: Window 'Project Settings' being destroyed
 [2025.09.02-17.22.07:831][930]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.02-17.23.30:637][194]LogSlate: Took 0.022541 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.09.02-17.23.30:721][194]LogAutomationController: Ignoring very large delta of 3.85 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.23.37:947][509]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.09.02-17.23.37:967][509]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.09.02-17.23.37:977][509]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.09.02-17.23.37:994][510]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.09.02-17.23.47:864][ 96]LogContentBrowser: Attempting asset rename: NewBlueprint -> Character
+[2025.09.02-17.23.47:899][ 96]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.09.02-17.24.00:117][811]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Characters/Character.Character
+[2025.09.02-17.24.00:118][811]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_1
+[2025.09.02-17.24.00:342][811]LogStreaming: Display: FlushAsyncLoading(396): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.24.03:117][811]LogAutomationController: Ignoring very large delta of 3.00 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.24.06:410][964]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_2
+[2025.09.02-17.24.07:618][ 25]LogStreaming: Display: FlushAsyncLoading(592): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.24.08:101][ 25]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_3
+[2025.09.02-17.24.08:397][ 32]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_4
+[2025.09.02-17.24.27:728][ 67]LogSlate: Took 0.031634 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2025.09.02-17.24.40:322][698]LogStreaming: Display: FlushAsyncLoading(593): 1 QueuedPackages, 0 AsyncPackages
+[2025.09.02-17.24.41:472][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 349.394409
+[2025.09.02-17.24.41:762][753]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.24.41:762][754]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 349.666718, Update Interval: 302.627655
+[2025.09.02-17.24.50:837][222]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2025.09.02-17.29.17:299][432]LogAutomationController: Ignoring very large delta of 3.80 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.29.22:771][449]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2025.09.02-17.29.22:772][449]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.097
+[2025.09.02-17.29.22:803][449]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Characters/Character] ([2] browsable assets)...
+[2025.09.02-17.29.23:013][449]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Characters/Character.Character]
+[2025.09.02-17.29.23:014][449]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.09.02-17.29.23:053][449]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/Characters/Character.Character_C]
+[2025.09.02-17.29.23:053][449]OBJ SavePackage: Finished generating thumbnails for package [/Game/Characters/Character]
+[2025.09.02-17.29.23:053][449]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Characters/Character" FILE="C:/Users/robin/OneDrive/Documents/GitHub/GADE722/Ice_1/Saved/Autosaves/Game/Characters/Character_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2025.09.02-17.29.23:143][449]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Characters/Character_Auto1
+[2025.09.02-17.29.23:143][449]LogSavePackage: Moving 'C:/Users/robin/OneDrive/Documents/GitHub/GADE722/Ice_1/Saved/Character_Auto12CDF3DD843CAC6C0810F5FBB2864A21F.tmp' to 'C:/Users/robin/OneDrive/Documents/GitHub/GADE722/Ice_1/Saved/Autosaves/Game/Characters/Character_Auto1.uasset'
+[2025.09.02-17.29.23:143][449]LogFileHelpers: Auto-saving content packages took 0.342
+[2025.09.02-17.29.47:182][522]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 655.103271
+[2025.09.02-17.29.48:181][525]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.29.48:181][526]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 655.771973, Update Interval: 351.849731
+[2025.09.02-17.35.02:725][ 93]LogAutomationController: Ignoring very large delta of 3.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.35.45:173][493]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1013.098572
+[2025.09.02-17.35.45:933][501]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.09.02-17.35.45:933][501]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1013.527588, Update Interval: 356.544678
+[2025.09.02-17.36.37:815][140]LogSlate: External Image Picker: DecompressImage failed
+[2025.09.02-17.37.03:613][490]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.02-17.37.03:632][490]LogSlate: Window 'Project Settings' being destroyed
+[2025.09.02-17.38.21:895][236]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.09.02-17.38.22:041][236]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.09.02-17.38.22:041][236]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.09.02-17.38.22:065][236]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 24.851 ms
+[2025.09.02-17.38.22:245][236]LogPlayLevel: [PlayLevel] Compiling Character before play...
+[2025.09.02-17.38.22:500][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2025.09.02-17.38.22:502][236]LogPlayLevel: PlayLevel: Blueprint regeneration took 259 ms (1 blueprints)
+[2025.09.02-17.38.22:710][236]LogOnline: OSS: Created online subsystem instance for: NULL
+[2025.09.02-17.38.22:710][236]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for type [NULL]
+[2025.09.02-17.38.22:775][236]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.09.02-17.38.22:847][236]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.09.02-17.38.22:850][236]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.581 ms
+[2025.09.02-17.38.22:850][236]LogPlayLevel: PIE: StaticDuplicateObject took: (0.074439s)
+[2025.09.02-17.38.22:850][236]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.093395s)
+[2025.09.02-17.38.22:878][236]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2025.09.02-17.38.22:915][236]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.09.02-17.38.23:009][236]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.09.02-17.38.23:009][236]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.09.02-17.38.23:009][236]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.09.02-17.38.23:030][236]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.09.02-17.38.23:032][236]LogWorldPartition: Display: WorldPartition initialize took 22.669 ms (total: 2.96 sec)
+[2025.09.02-17.38.23:032][236]LogPlayLevel: PIE: World Init took: (0.116538s)
+[2025.09.02-17.38.23:053][236]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.09.02-17.38.23:053][236]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.09.02-17.38.23:053][236]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.09.02-17.38.23:053][236]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.09.02-17.38.23:053][236]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.09.02-17.38.23:053][236]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.09.02-17.38.23:057][236]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.09.02-17.38.23:101][236]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Arctis Nova 3X Wireless)
+[2025.09.02-17.38.23:101][236]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.09.02-17.38.23:101][236]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.09.02-17.38.23:101][236]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.09.02-17.38.23:102][236]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2025.09.02-17.38.23:102][236]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2025.09.02-17.38.23:104][236]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2025.09.02-17.38.23:104][236]LogInit: FAudioDevice initialized with ID 2.
+[2025.09.02-17.38.23:104][236]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2025.09.02-17.38.23:104][236]LogAudio: Display: Audio Device (ID: 2) registered with world 'Lvl_ThirdPerson'.
+[2025.09.02-17.38.23:104][236]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.02-17.38.23:242][236]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.09.02-17.38.23:248][236]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 60) at 2025.09.02-19.38.23
+[2025.09.02-17.38.23:249][236]LogWorld: Bringing up level for play took: 0.002503
+[2025.09.02-17.38.23:255][236]LogOnline: OSS: Created online subsystem instance for: :Context_7
+[2025.09.02-17.38.24:069][236]PIE: Server logged in
+[2025.09.02-17.38.24:088][236]PIE: Play in editor total start time 2,164 seconds.
+[2025.09.02-17.38.24:587][236]LogAutomationController: Ignoring very large delta of 2.70 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2025.09.02-17.38.24:635][237]LogRenderer: Recreating Persistent SBTs due to initializer changes: 
+		NumShaderSlotsPerGeometrySegment changed: current: 1 - new: 2
+		NumGeometrySegments changed: current: 0 - new: 512
+[2025.09.02-17.38.47:456][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-17.38.47:456][580]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.09.02-17.38.47:456][580]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.09.02-17.38.47:456][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.38.47:456][580]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.09.02-17.38.47:518][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.09.02-17.38.47:558][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.09.02-17.38.47:582][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.09.02-17.38.47:583][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2025.09.02-17.38.47:611][580]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=4
+[2025.09.02-17.38.47:614][580]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2, StreamState=2
+[2025.09.02-17.38.47:622][580]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2025.09.02-17.38.47:696][581]LogPlayLevel: Display: Destroying online subsystem :Context_7
